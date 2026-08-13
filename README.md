@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Muhammad Arshan
 
-## Full Stack Developer | Arshan ERP Solutions
+## Full Stack Developer 
 
 I build practical business software using modern web technologies with a focus on performance, simplicity, and real-world usability.
 
